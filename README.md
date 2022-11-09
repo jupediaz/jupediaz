@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @jupediaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Jose Diaz
+- 👀 I’m interested in ... Agile methodologies, clean code and software principles as SOLID, DDD, CQRS, Hexagonal architecture
+- 🌱 I’m currently learning ... PHP, Symfony, Laravel, Go, Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 hello@jjdiaz.dev
 
-<!---
-jupediaz/jupediaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about building scalable and clean code software.
+
+Experience leading software development teams and building applications from scratch to deploy them to production environments.
+
+Courageous to face new challenges and without barriers at work, to evolve and improve professionally. Eager to learn and improve.
