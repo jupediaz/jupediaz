@@ -13,7 +13,7 @@ Courageous to face new challenges and without barriers at work, to evolve and im
 - 👀 I’m interested in ... **Microservices**, **Agile Methodologies**, **Clean Code** and Software Principles as **SOLID**, **DDD**, **CQRS**, **Hexagonal Architecture** & **TDD**
 - 🌱 I’m currently learning ... PHP, Symfony, Laravel, Go, Python
 - I :heart: ... **Microservices**
-- 💞️ I’m looking to collaborate on ... **startups** or **product companies**
+- 💞️ I’m looking to collaborate on ... **startups** or **product development** companies
 
 You can reach me at:
 - <img src="/icon/linkedin-black.svg#gh-light-mode-only" width="15"/><img src="/icon/linkedin-white.svg#gh-dark-mode-only" width="15"/> <a href="https://www.linkedin.com/in/josediazmoreno/" target="_blank">https://www.linkedin.com/in/josediazmoreno</a>
