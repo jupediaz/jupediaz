@@ -23,8 +23,18 @@ You can reach me at:
 **Blogs**
 I write about software development, microservices, clean code, software architecture, and other topics related to software development.
 
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <filter id="fff">
+    <feFlood flood-color="white" result="floodOut" />
+    <feComposite in="floodOut" in2="SourceGraphic" operator="in" result="compOut" />
+    <feMerge>
+      <feMergeNode in="compOut" />
+      <feMergeNode in="SourceGraphic" />
+    </feMerge>
+  </filter>
+
 - <img src="/icon/blog.svg" width="14px" alt="blog" style="filter: url(#fff);"> https://blog.jjdiaz.dev ... my blog where I share my ideas
-- <img src="/icon/medium.svg" width="14px" alt="medium"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
+- <img src="/icon/medium.svg" width="14px" alt="medium" style="background-color: #FFFFFF;"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
 - <img src="/icon/dev.svg" width="14px" alt="dev.to"> https://dev.to/jjdiaz ... and also here :sweat_smile:
 
 **Last posts**
