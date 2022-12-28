@@ -1,7 +1,4 @@
-<img src="/icon/linkedin-black.svg#gh-light-mode-only" width="15"/>
-<img src="/icon/linkedin-light.svg#gh-dark-mode-only" width="15"/>
-
-Hi there! <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;" data-target="animated-image.originalImage"></a>
+Hi there! <a href="https://jjdiaz.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm Jose Diaz and I am the Head of IT at IMCW Europe.
 
@@ -26,10 +23,9 @@ You can reach me at:
 **Blogs**
 I write about software development, microservices, clean code, software architecture, and other topics related to software development.
 
-- [<img src="/icon/blog-black.svg#gh-light-mode-only" width="15" alt="blog"/> https://blog.jjdiaz.de](https://blog.jjdiaz.dev)
-- <img src="/icon/blog-black.svg" width="14px" alt="blog" style="filter: url(#fff);"> https://blog.jjdiaz.dev ... my blog where I share my ideas
-- <img src="/icon/medium-black.svg" width="14px" alt="medium" style="background-color: #FFFFFF;"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
-- <img src="/icon/dev-black.svg" width="14px" alt="dev.to"> https://dev.to/jjdiaz ... and also here :sweat_smile:
+- <img src="/icon/blog-black.svg#gh-light-mode-only" width="15"/><img src="/icon/blog-white.svg#gh-dark-mode-only" width="15"/><a href="https://blog.jjdiaz.dev"> https://blog.jjdiaz.dev</a> ... my blog where I share my ideas
+- <img src="/icon/medium-black.svg#gh-light-mode-only" width="15"/><img src="/icon/medium-white.svg#gh-dark-mode-only" width="15"/><a href="https://medium.com/@josediazmoreno"> https://medium.com/@josediazmoreno</a> ... well I also share posts here :grimacing:
+- <img src="/icon/dev-black.svg#gh-light-mode-only" width="15"/><img src="/icon/dev-white.svg#gh-dark-mode-only" width="15"/><a href="https://dev.to/jjdiaz"> https://dev.to/jjdiaz</a> ... and also here :sweat_smile:
 
 **Last posts**
 <!--BLOG-POST-LIST:START-->
