@@ -21,6 +21,7 @@ You can reach me at:
 - 👨‍💻 https://jjdiaz.dev ... my **website** and **resume/CV**
 
 **Blogs**
+
 I write about software development, microservices, clean code, software architecture, and other topics related to software development.
 
 - <img src="/icon/blog-black.svg#gh-light-mode-only" width="15"/><img src="/icon/blog-white.svg#gh-dark-mode-only" width="15"/><a href="https://blog.jjdiaz.dev" target="_blank"> https://blog.jjdiaz.dev</a> ... my blog where I share my ideas
