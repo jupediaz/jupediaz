@@ -1,4 +1,6 @@
-Hi there <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;" data-target="animated-image.originalImage"></a>, I'm Jose Diaz and I am the Head of IT at IMCW Europe.
+Hi there! <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;" data-target="animated-image.originalImage"></a>
+
+I'm Jose Diaz and I am the Head of IT at IMCW Europe.
 
 I have over 15 years of experience in software development and a passion for building scalable and clean code software. I have experience leading software development teams and have built numerous websites and applications from scratch.
 
@@ -12,15 +14,18 @@ Courageous to face new challenges and without barriers at work, to evolve and im
 - 🌱 I’m currently learning ... PHP, Symfony, Laravel, Go, Python
 - I :heart: ... **Microservices**
 - 💞️ I’m looking to collaborate on ... **startups** or **product companies**
-- 📫 How to reach me ... <a href="mailto:hello@jjdiaz.dev" target="_blank">hello@jjdiaz.dev</a>
+
+You can reach me at:
+- <a href="https://www.linkedin.com/in/josediazmoreno/" target="_blank"><img src="/icon/linkedin.svg" width="14px" alt="linkedin"> LinkedIn</a>
+- 📫 <a href="mailto:hello@jjdiaz.dev" target="_blank">hello@jjdiaz.dev</a>
 - 👨‍💻 https://jjdiaz.dev ... my **website** and **resume/CV**
 
 **Blogs**
 I write about software development, microservices, clean code, software architecture, and other topics related to software development.
 
-- ✏️ https://blog.jjdiaz.dev ... my blog where I share my ideas
-- ✏️ https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
-- ✏️ https://dev.to/jjdiaz ... and also here :sweat_smile:
+- <img src="/icon/blog.svg" width="14px" alt="blog"> https://blog.jjdiaz.dev ... my blog where I share my ideas
+- <img src="/icon/medium.svg" width="14px" alt="medium"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
+- <img src="/icon/dev.svg" width="14px" alt="dev.to"> https://dev.to/jjdiaz ... and also here :sweat_smile:
 
 **Last posts**
 <!--BLOG-POST-LIST:START-->
