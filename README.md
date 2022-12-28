@@ -1,49 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
-</picture>
-
-
-Hi there! <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;" data-target="animated-image.originalImage"></a>
+Hi there! <a href="https://jjdiaz.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm Jose Diaz and I am the Head of IT at IMCW Europe.
 
-I have over 15 years of experience in software development and a passion for building scalable and clean code software. I have experience leading software development teams and have built numerous websites and applications from scratch.
+With over 15 years of experience in software development, I am highly skilled in building scalable and clean code software.
 
-Passionate about building scalable and clean code software.
+Passionate about crafting efficient and effective solutions and have successfully led software development teams through the entire development process, from conceptualization to deployment in production environments.
 
-Experience leading software development teams and building applications from scratch to deploy them to production environments.
+Constantly seek to improve and grow professionally and am fearless in taking on new challenges. My strong desire to learn and evolve helps drive my success in the field.
 
-Courageous to face new challenges and without barriers at work, to evolve and improve professionally. Eager to learn and improve.
+I have a track record of consistently delivering high-quality software solutions to my clients and am dedicated to achieving optimal results.
+
+Confident in contributing value to any project and am eager to apply my skills and expertise to new opportunities.
 
 - 👀 I’m interested in ... **Microservices**, **Agile Methodologies**, **Clean Code** and Software Principles as **SOLID**, **DDD**, **CQRS**, **Hexagonal Architecture** & **TDD**
 - 🌱 I’m currently learning ... PHP, Symfony, Laravel, Go, Python
 - I :heart: ... **Microservices**
-- 💞️ I’m looking to collaborate on ... **startups** or **product companies**
+- 💞️ I’m looking to collaborate on ... **startups** or **product development** companies
 
 You can reach me at:
-- <a href="https://www.linkedin.com/in/josediazmoreno/" target="_blank"><img src="/icon/linkedin.svg" width="14px" alt="linkedin"> LinkedIn</a>
+- <img src="/icon/linkedin-black.svg#gh-light-mode-only" width="15"/><img src="/icon/linkedin-white.svg#gh-dark-mode-only" width="15"/> <a href="https://www.linkedin.com/in/josediazmoreno/" target="_blank">https://www.linkedin.com/in/josediazmoreno</a>
 - 📫 <a href="mailto:hello@jjdiaz.dev" target="_blank">hello@jjdiaz.dev</a>
 - 👨‍💻 https://jjdiaz.dev ... my **website** and **resume/CV**
 
 **Blogs**
+
 I write about software development, microservices, clean code, software architecture, and other topics related to software development.
 
-<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-  <filter id="fff">
-    <feFlood flood-color="white" result="floodOut" />
-    <feComposite in="floodOut" in2="SourceGraphic" operator="in" result="compOut" />
-    <feMerge>
-      <feMergeNode in="compOut" />
-      <feMergeNode in="SourceGraphic" />
-    </feMerge>
-  </filter>
-
-https://blog.jjdiaz.dev
-
-- ![https://blog.jjdiaz.dev](icon/dev-white.svg#gh-dark-mode-only)![dev.to](icon/dev-black.svg#gh-light-mode-only) ... my blog where I share my ideas
-- <img src="/icon/medium-black.svg" alt="medium" style="background-color: #FFFFFF;"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
-- <img src="/icon/dev.svg" width="15px" alt="dev.to"> https://dev.to/jjdiaz ... and also here :sweat_smile:
+- <img src="/icon/blog-black.svg#gh-light-mode-only" width="15"/><img src="/icon/blog-white.svg#gh-dark-mode-only" width="15"/><a href="https://blog.jjdiaz.dev" target="_blank"> https://blog.jjdiaz.dev</a> ... my blog where I share my ideas
+- <img src="/icon/medium-black.svg#gh-light-mode-only" width="15"/><img src="/icon/medium-white.svg#gh-dark-mode-only" width="15"/><a href="https://medium.com/@josediazmoreno" target="_blank"> https://medium.com/@josediazmoreno</a> ... well I also share posts here :grimacing:
+- <img src="/icon/dev-black.svg#gh-light-mode-only" width="15"/><img src="/icon/dev-white.svg#gh-dark-mode-only" width="15"/><a href="https://dev.to/jjdiaz" target="_blank"> https://dev.to/jjdiaz</a> ... and also here :sweat_smile:
 
 **Last posts**
 <!--BLOG-POST-LIST:START-->
