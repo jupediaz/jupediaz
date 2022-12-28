@@ -23,7 +23,7 @@ You can reach me at:
 **Blogs**
 I write about software development, microservices, clean code, software architecture, and other topics related to software development.
 
-- <img src="/icon/blog.svg" width="14px" alt="blog"> https://blog.jjdiaz.dev ... my blog where I share my ideas
+- <img src="/icon/blog.svg" width="14px" alt="blog" style="filter: url(#fff);"> https://blog.jjdiaz.dev ... my blog where I share my ideas
 - <img src="/icon/medium.svg" width="14px" alt="medium"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
 - <img src="/icon/dev.svg" width="14px" alt="dev.to"> https://dev.to/jjdiaz ... and also here :sweat_smile:
 
