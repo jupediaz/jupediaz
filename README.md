@@ -1,9 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
-</picture>
+[<img src="icon/blog-white.svg" width="30"/>](https://blog.jjdiaz.dev)
 
-![dev.to](icon/dev-white.svg#gh-dark-mode-only)![dev.to](icon/dev-black.svg#gh-light-mode-only)
+[<img src="icon/dev-white.svg#gh-light-mode-only" width="30"/>](https://dev.to)
+[<img src="icon/blog-white.svg#gh-dark-mode-only" width="30"/>](https://dev.to)
 
 Hi there! <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;" data-target="animated-image.originalImage"></a>
 
