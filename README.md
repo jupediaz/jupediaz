@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+</picture>
+
+
 Hi there! <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;" data-target="animated-image.originalImage"></a>
 
 I'm Jose Diaz and I am the Head of IT at IMCW Europe.
@@ -33,9 +39,11 @@ I write about software development, microservices, clean code, software architec
     </feMerge>
   </filter>
 
-- <img src="/icon/blog.svg" width="14px" alt="blog" style="filter: url(#fff);"> https://blog.jjdiaz.dev ... my blog where I share my ideas
-- <img src="/icon/medium.svg" width="14px" alt="medium" style="background-color: #FFFFFF;"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
-- <img src="/icon/dev.svg" width="14px" alt="dev.to"> https://dev.to/jjdiaz ... and also here :sweat_smile:
+https://blog.jjdiaz.dev
+
+- ![https://blog.jjdiaz.dev](icon/dev-white.svg#gh-dark-mode-only)![dev.to](icon/dev-black.svg#gh-light-mode-only) ... my blog where I share my ideas
+- <img src="/icon/medium-black.svg" alt="medium" style="background-color: #FFFFFF;"> https://medium.com/@josediazmoreno ... well I also share posts here :grimacing:
+- <img src="/icon/dev.svg" width="15px" alt="dev.to"> https://dev.to/jjdiaz ... and also here :sweat_smile:
 
 **Last posts**
 <!--BLOG-POST-LIST:START-->
