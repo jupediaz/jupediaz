@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jose Diaz
 - 👀 I’m interested in ... Agile methodologies, clean code and software principles as SOLID, DDD, CQRS, Hexagonal architecture
 - 🌱 I’m currently learning ... PHP, Symfony, Laravel, Go, Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... startups
 - 📫 hello@jjdiaz.dev
+- ✏️ https://blog.jjdiaz.dev
 
 Passionate about building scalable and clean code software.
 
