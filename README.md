@@ -2,13 +2,15 @@ Hi there! <a href="https://jjdiaz.dev/"><img src="https://media.giphy.com/media/
 
 I'm Jose Diaz and I am the Head of IT at IMCW Europe.
 
-I have over 15 years of experience in software development and a passion for building scalable and clean code software. I have experience leading software development teams and have built numerous websites and applications from scratch.
+With over 15 years of experience in software development, I am highly skilled in building scalable and clean code software.
 
-Passionate about building scalable and clean code software.
+Passionate about crafting efficient and effective solutions and have successfully led software development teams through the entire development process, from conceptualization to deployment in production environments.
 
-Experience leading software development teams and building applications from scratch to deploy them to production environments.
+Constantly seek to improve and grow professionally and am fearless in taking on new challenges. My strong desire to learn and evolve helps drive my success in the field.
 
-Courageous to face new challenges and without barriers at work, to evolve and improve professionally. Eager to learn and improve.
+I have a track record of consistently delivering high-quality software solutions to my clients and am dedicated to achieving optimal results.
+
+Confident in contributing value to any project and am eager to apply my skills and expertise to new opportunities.
 
 - 👀 I’m interested in ... **Microservices**, **Agile Methodologies**, **Clean Code** and Software Principles as **SOLID**, **DDD**, **CQRS**, **Hexagonal Architecture** & **TDD**
 - 🌱 I’m currently learning ... PHP, Symfony, Laravel, Go, Python
