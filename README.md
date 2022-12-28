@@ -1,7 +1,7 @@
 Hi there <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="display: inline-block;" data-target="animated-image.originalImage"></a>
 
 - 👋 Hi, I’m Jose Diaz
-- 👀 I’m interested in ... Agile methodologies, clean code and software principles as SOLID, DDD, CQRS, Hexagonal architecture
+- 👀 I’m interested in ... Agile methodologies, clean code and software principles as SOLID, DDD, CQRS, Hexagonal architecture & TDD
 - 🌱 I’m currently learning ... PHP, Symfony, Laravel, Go, Python
 - 💞️ I’m looking to collaborate on ... startups or product companies
 - 📫 Drop me some lines to <a href="mailto:hello@jjdiaz.dev" target="_blank">hello@jjdiaz.dev</a>
