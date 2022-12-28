@@ -1,3 +1,6 @@
+<img src="/icon/linkedin-black.svg#gh-light-mode-only" width="15"/>
+<img src="/icon/linkedin-light.svg#gh-dark-mode-only" width="15"/>
+
 Hi there! <a href="https://jjdiaz.dev/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block;" data-target="animated-image.originalImage"></a>
 
 I'm Jose Diaz and I am the Head of IT at IMCW Europe.
