@@ -1,6 +1,6 @@
 Hi there! <a href="https://jjdiaz.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Jose Diaz and I am the Head of IT at IMCW Europe.
+I'm **Jose Diaz** and I am the Head of IT at IMCW Europe.
 
 With over 15 years of experience in software development, I am highly skilled in building scalable and clean code software.
 
@@ -39,5 +39,6 @@ I write about software development, microservices, clean code, software architec
 - [Go Language: Fast, Simple, Scalable](https://medium.com/@josediazmoreno/go-language-fast-simple-scalable-4830222e6d7?source=rss-76bea6e3d39c------2)
 - [Maximize API Performance with a Load Balancer: NGINX](https://medium.com/@josediazmoreno/maximize-api-performance-with-a-load-balancer-nginx-a8ffb9139376?source=rss-76bea6e3d39c------2)
 <!-- BLOG-POST-LIST:END -->
+&nbsp; &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupediaz)](https://github.com/anuraghazra/github-readme-stats)
