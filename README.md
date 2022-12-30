@@ -32,7 +32,6 @@ I write about software development, microservices, clean code, software architec
 
 **Last posts**
 
-<!--BLOG-POST-LIST:START-->
-<!--BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupediaz)](https://github.com/anuraghazra/github-readme-stats)
