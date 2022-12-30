@@ -31,5 +31,8 @@ I write about software development, microservices, clean code, software architec
 - <img src="/icon/dev-black.svg#gh-light-mode-only" width="15"/><img src="/icon/dev-white.svg#gh-dark-mode-only" width="15"/><a href="https://dev.to/jjdiaz" target="_blank"> https://dev.to/jjdiaz</a> ... and also here :sweat_smile:
 
 **Last posts**
+
 <!--BLOG-POST-LIST:START-->
 <!--BLOG-POST-LIST:END -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupediaz)](https://github.com/anuraghazra/github-readme-stats)
