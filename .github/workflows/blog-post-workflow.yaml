@@ -13,6 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: jupediaz/blog-post-workflow@master
+        uses: jupediaz/blog-post-workflow@main
         with:
           feed_list: "https://blog.jjdiaz.dev/rss.xml,https://medium.com/feed/@josediazmoreno,https://dev.to/feed/jjdiaz"
