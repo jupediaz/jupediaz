@@ -18,6 +18,7 @@ Confident in contributing value to any project and am eager to apply my skills a
 - 💞️ I’m looking to collaborate on ... **startups** or **product development** companies
 
 You can reach me at:
+
 - <img src="/icon/linkedin-black.svg#gh-light-mode-only" width="15"/><img src="/icon/linkedin-white.svg#gh-dark-mode-only" width="15"/> <a href="https://www.linkedin.com/in/josediazmoreno/" target="_blank">https://www.linkedin.com/in/josediazmoreno</a>
 - 📫 <a href="mailto:hello@jjdiaz.dev" target="_blank">hello@jjdiaz.dev</a>
 - 👨‍💻 https://jjdiaz.dev ... my **website** and **resume/CV**
@@ -33,13 +34,14 @@ I write about software development, microservices, clean code, software architec
 **Last posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Swagger in FastAPI: The Perfect Pair for Python API Development](https://medium.com/@josediazmoreno/swagger-in-fastapi-the-perfect-pair-for-python-api-development-8b873ee94ddd?source=rss-76bea6e3d39c------2)
 - [Using a CDN to deliver faster and more secure content in Laravel](https://medium.com/@josediazmoreno/using-a-cdn-to-deliver-faster-and-more-secure-content-in-laravel-cbcaf76e11c8?source=rss-76bea6e3d39c------2)
 - [Creating Documentation and Testing with Swagger OpenAPI for a Laravel](https://medium.com/@josediazmoreno/creating-documentation-and-testing-with-swagger-openapi-for-a-laravel-41012eb83cc7?source=rss-76bea6e3d39c------2)
 - [Go Language: Fast, Simple, Scalable](https://medium.com/@josediazmoreno/go-language-fast-simple-scalable-4830222e6d7?source=rss-76bea6e3d39c------2)
 - [Maximize API Performance with a Load Balancer: NGINX](https://medium.com/@josediazmoreno/maximize-api-performance-with-a-load-balancer-nginx-a8ffb9139376?source=rss-76bea6e3d39c------2)
-<!-- BLOG-POST-LIST:END -->
-&nbsp; &nbsp;
+  <!-- BLOG-POST-LIST:END -->
+  &nbsp; &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupediaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
