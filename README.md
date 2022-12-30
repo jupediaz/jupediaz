@@ -41,4 +41,4 @@ I write about software development, microservices, clean code, software architec
 <!-- BLOG-POST-LIST:END -->
 &nbsp; &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupediaz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupediaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
