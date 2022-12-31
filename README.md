@@ -1,3 +1,7 @@
+<img src="/icon/logo_jjdiaz.dev_github.png" width="200" align="right"/>
+
+<img src="/icon/logo_jjdiaz.dev_light.png#gh-light-mode-only" width="200"/><img src="/icon/logo_jjdiaz.dev_dark.png#gh-dark-mode-only" width="200"/>
+
 Hi there! <a href="https://jjdiaz.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm **Jose Diaz** and I am the Head of IT at IMCW Europe.
