@@ -17,7 +17,7 @@ I have a track record of consistently delivering high-quality software solutions
 Confident in contributing value to any project and am eager to apply my skills and expertise to new opportunities.
 
 - 👀 I’m interested in ... **Microservices**, **Agile Methodologies**, **Clean Code** and Software Principles as **SOLID**, **DDD**, **CQRS**, **Hexagonal Architecture** & **TDD**
-- 🌱 I’m currently learning ... **PHP**, **Symfony**, **Laravel**, **Go**, **Python**
+- 🌱 I’m currently coding ... **PHP**, **Symfony**, **Laravel**, **Go**, **Python**
 - I :heart: ... **Microservices**
 - 💞️ I’m looking to collaborate on ... **startups** or **product development** companies
 
