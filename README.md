@@ -38,11 +38,11 @@ I write about software development, microservices, clean code, software architec
 **Last posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Swagger in FastAPI: The Perfect Pair for Python API Development](https://medium.com/@josediazmoreno/swagger-in-fastapi-the-perfect-pair-for-python-api-development-8b873ee94ddd?source=rss-76bea6e3d39c------2)
-- [Using a CDN to deliver faster and more secure content in Laravel](https://medium.com/@josediazmoreno/using-a-cdn-to-deliver-faster-and-more-secure-content-in-laravel-cbcaf76e11c8?source=rss-76bea6e3d39c------2)
-- [Creating Documentation and Testing with Swagger OpenAPI for a Laravel](https://medium.com/@josediazmoreno/creating-documentation-and-testing-with-swagger-openapi-for-a-laravel-41012eb83cc7?source=rss-76bea6e3d39c------2)
-- [Go Language: Fast, Simple, Scalable](https://medium.com/@josediazmoreno/go-language-fast-simple-scalable-4830222e6d7?source=rss-76bea6e3d39c------2)
-- [Maximize API Performance with a Load Balancer: NGINX](https://medium.com/@josediazmoreno/maximize-api-performance-with-a-load-balancer-nginx-a8ffb9139376?source=rss-76bea6e3d39c------2)
+- [Optimizing scalability and health of your Laravel APIs with monitoring tools like Datadog and New…](https://medium.com/@josediazmoreno/optimizing-scalability-and-health-of-your-laravel-apis-with-monitoring-tools-like-datadog-and-new-f7b7df97d202?source=rss-76bea6e3d39c------2)
+- [Maximizing scalability and flexibility with a microservices architecture for your Laravel API](https://medium.com/@josediazmoreno/maximizing-scalability-and-flexibility-with-a-microservices-architecture-for-your-laravel-api-35798b346826?source=rss-76bea6e3d39c------2)
+- [Why PostgreSQL is a Top Choice for Data Management and Applications](https://medium.com/@josediazmoreno/why-postgresql-is-a-top-choice-for-data-management-and-applications-4cd5bdab1572?source=rss-76bea6e3d39c------2)
+- [14 Best Practices for Optimizing the Performance of your Laravel API](https://medium.com/@josediazmoreno/14-best-practices-for-optimizing-the-performance-of-your-laravel-api-da16dc9cd071?source=rss-76bea6e3d39c------2)
+- [MongoDB: The Pros and Cons of Using a NoSQL Database](https://medium.com/@josediazmoreno/mongodb-the-pros-and-cons-of-using-a-nosql-database-830dc6fdcc01?source=rss-76bea6e3d39c------2)
 <!-- BLOG-POST-LIST:END -->
   &nbsp; &nbsp;
 
