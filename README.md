@@ -34,7 +34,7 @@ I write about software development, microservices, clean code, software architec
 **Last posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Swagger in FastAPI: The Perfect Pair for Python API Development](https://medium.com/@josediazmoreno/swagger-in-fastapi-the-perfect-pair-for-python-api-development-8b873ee94ddd?source=rss-76bea6e3d39c------2)
+- [Break the Limits: Send Large Text Blocks to ChatGPT with Ease](https://medium.com/@josediazmoreno/break-the-limits-send-large-text-blocks-to-chatgpt-with-ease-6824b86d3270)
 - [Using a CDN to deliver faster and more secure content in Laravel](https://medium.com/@josediazmoreno/using-a-cdn-to-deliver-faster-and-more-secure-content-in-laravel-cbcaf76e11c8?source=rss-76bea6e3d39c------2)
 - [Creating Documentation and Testing with Swagger OpenAPI for a Laravel](https://medium.com/@josediazmoreno/creating-documentation-and-testing-with-swagger-openapi-for-a-laravel-41012eb83cc7?source=rss-76bea6e3d39c------2)
 - [Go Language: Fast, Simple, Scalable](https://medium.com/@josediazmoreno/go-language-fast-simple-scalable-4830222e6d7?source=rss-76bea6e3d39c------2)
