@@ -4,7 +4,7 @@
 
 Hi there! <a href="https://jjdiaz.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm **Jose Diaz** and I am Head of IT.
+I'm **Jose Diaz** and I work as Head of IT now, after some years as Fullstack developer and last 6 years as CTO.
 
 With over 15 years of experience in software development, I am highly skilled in building scalable and clean code software.
 
