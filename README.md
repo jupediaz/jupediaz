@@ -38,11 +38,11 @@ I write about software development, microservices, clean code, software architec
 **Last posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to AI: Definitions, Types, and Applications](https://dev.to/jjdiaz/an-introduction-to-ai-definitions-types-and-applications-f1g)
-- [Why PostgreSQL is a Top Choice for Data Management and Applications](https://dev.to/jjdiaz/why-postgresql-is-a-top-choice-for-data-management-and-applications-j1g)
-- [MongoDB: The Pros and Cons of Using a NoSQL Database](https://dev.to/jjdiaz/mongodb-the-pros-and-cons-of-using-a-nosql-database-bna)
-- [14 Best Practices for Optimizing the Performance of your Laravel API](https://dev.to/jjdiaz/14-best-practices-for-optimizing-the-performance-of-your-laravel-api-4k45)
-- [Maximizing scalability and flexibility with a microservices architecture for your Laravel API](https://dev.to/jjdiaz/maximizing-scalability-and-flexibility-with-a-microservices-architecture-for-your-laravel-api-53oo)
+- [Break the Limits: Send Large Text Blocks to ChatGPT with Ease](https://medium.com/@josediazmoreno/break-the-limits-send-large-text-blocks-to-chatgpt-with-ease-6824b86d3270?source=rss-76bea6e3d39c------2)
+- [Optimizing scalability and health of your Laravel APIs with monitoring tools like Datadog and New…](https://medium.com/@josediazmoreno/optimizing-scalability-and-health-of-your-laravel-apis-with-monitoring-tools-like-datadog-and-new-f7b7df97d202?source=rss-76bea6e3d39c------2)
+- [Maximizing scalability and flexibility with a microservices architecture for your Laravel API](https://medium.com/@josediazmoreno/maximizing-scalability-and-flexibility-with-a-microservices-architecture-for-your-laravel-api-35798b346826?source=rss-76bea6e3d39c------2)
+- [Why PostgreSQL is a Top Choice for Data Management and Applications](https://medium.com/@josediazmoreno/why-postgresql-is-a-top-choice-for-data-management-and-applications-4cd5bdab1572?source=rss-76bea6e3d39c------2)
+- [14 Best Practices for Optimizing the Performance of your Laravel API](https://medium.com/@josediazmoreno/14-best-practices-for-optimizing-the-performance-of-your-laravel-api-da16dc9cd071?source=rss-76bea6e3d39c------2)
 <!-- BLOG-POST-LIST:END -->
   &nbsp; &nbsp;
 
